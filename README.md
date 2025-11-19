@@ -24,6 +24,7 @@
 - [8주차](https://github.com/gyungmean/backend-study/tree/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/week08) 오브젝트 (4장)
 - [9주차](https://github.com/gyungmean/backend-study/tree/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/week09) 오브젝트 (5장)
 - [10주차](https://github.com/gyungmean/backend-study/tree/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/week10) 오브젝트 (6장)
+- [11주차](https://github.com/gyungmean/backend-study/tree/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/week11) 오브젝트 (7장)
 
 ---
 
